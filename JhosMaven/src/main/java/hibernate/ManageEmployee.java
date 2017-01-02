@@ -36,7 +36,7 @@ public class ManageEmployee {
       /* List down all the employees */
       ME.listEmployees();
       
-      ME.deleteEmployeeByFirstName("Jhos");
+      //ME.deleteEmployeeByFirstName("Jhos");
 
       /* Update employee's records */
      // ME.updateEmployee(empID1, 5000);
@@ -46,6 +46,8 @@ public class ManageEmployee {
 
       /* List down new list of the employees */
      // ME.listEmployees();
+      System.out.println("Fin...");
+      factory.close();
    }
    
    /* Method to CREATE an employee in the database */
