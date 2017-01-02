@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/scala-library-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/spark-core_2.10-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/hibernate-core-5.2.6.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/jandex-2.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/lib/required/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dubraska/Documents/Jhosman/Big_Data/libs/postgresql-9.4.1212.jre6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
