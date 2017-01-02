@@ -36,7 +36,7 @@ public class ManageEmployee {
       /* List down all the employees */
       ME.listEmployees();
       
-      ME.deleteEmployeeByFirstName("Zara");
+      ME.deleteEmployeeByFirstName("Jhos");
 
       /* Update employee's records */
      // ME.updateEmployee(empID1, 5000);
